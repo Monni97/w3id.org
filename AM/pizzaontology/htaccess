@@ -1,9 +1,9 @@
-# FG's pizza ontology
+# AM's pizza ontology
 #
-# Francesco Gullo
-# gullof@acm.org
-# GitHub username: fgullo
+# Andrea Monaldini
+# andrea.monaldini@student.univaq.it
+# GitHub username: Monni97
 
 RewriteEngine on
-RewriteRule ^ https://raw.githubusercontent.com/fgullo/ontology-publishing/refs/heads/main/pizza-tutorial.rdf [R=302,L]
-#This way the ontology will be available at: https://w3id.org/fg/pizzaontology
+RewriteRule ^ https://raw.githubusercontent.com/Monni97/publishingontology/refs/heads/main/pizzaontologyandrea.htm
+#This way the ontology will be available at: https://w3id.org/AM/pizzaontology
